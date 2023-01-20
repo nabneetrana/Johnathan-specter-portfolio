@@ -91,6 +91,11 @@ li{
     margin: 30px;
 }
 
+li:hover{
+    color: #ffffff;
+    border-bottom:1px solid #ffffff;
+}
+
 .logo-list ul li{
     margin: 0px;
     padding: 0px;
