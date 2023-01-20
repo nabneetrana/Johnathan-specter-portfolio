@@ -1,0 +1,159 @@
+
+
+/* universal */
+
+body{
+    background-color: #0a0a0b;
+
+}
+
+*{
+    margin: 21px 50px;
+}
+
+h3{
+    width: auto;
+    margin: 0;
+    font-family: 'Prata', serif;
+    color: #ffffff;
+}
+
+h1{
+    margin-top: 50px;
+    font-family: 'Prata', sans-serif;
+    font-size: 4em;
+    color: #ffffff;
+    margin-left: 0;
+
+}
+
+h2{
+    width: auto;
+    margin: 0;
+    font-family: 'Prata', serif;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+    font-size: 1em;
+    color: #adadad;
+    margin-left: 0;
+}
+
+/* individuals properties */
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 1em;
+    color: #adadad;
+}
+
+button{
+    margin: 0;
+    width: 125px;
+    height: 47px;
+    font-family: 'Prata', serif;
+    color: #0a0a0b;
+    background: #fbe850;
+    font-weight: 200;
+}
+
+button:hover{
+    background: #ffffff;
+    font-weight: bold;
+}
+
+.logo-list ul{
+    margin: 50px -50px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    flex-direction: row;
+}
+
+li{
+    margin: 30px;
+}
+
+.logo-list ul li{
+    margin: 0px;
+    padding: 0px;
+}
+
+.sites{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+
+}
+
+.site{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.site p{
+    margin-left: 50px;
+}
+
+.site h2{
+    margin-left: 50px;
+}
+
+.helpText{
+    margin: 0 -100px 0 -100px;
+    padding: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    background-color: #2e3038;
+
+}
+
+.getinTouch{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px -100px -44px -100px;
+    padding: 0 150px;
+    height: 80px;
+    background-color: #2e3038;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.footer ul img{
+    margin: 0;
+    padding: 0;
+
+}
+
+
